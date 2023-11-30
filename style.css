@@ -87,10 +87,12 @@ span i:hover {
 @media (max-width: 700px) {
   .popContainer video {
     margin-top: 200px;
+    width:90%;
   }
 }
 @media (max-width: 350px) {
   .popContainer video {
     margin-top: 250px;
+    width:95%;
   }
 }
