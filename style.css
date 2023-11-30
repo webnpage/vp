@@ -90,7 +90,7 @@ span i:hover {
     width:90%;
   }
 }
-@media (max-width: 350px) {
+@media (max-width: 400px) {
   .popContainer video {
     margin-top: 250px;
     width:95%;
