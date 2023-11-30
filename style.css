@@ -18,6 +18,7 @@ body {
   background-color: aliceblue;
   text-align: center;
   box-shadow: 1px 3px 5px rgba(255, 255, 255, 0.616);
+  transition: filter 0.6s;
 }
 .active.container {
   filter: blur(5px) brightness(0.4);
